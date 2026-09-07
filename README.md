@@ -74,6 +74,7 @@ Add model performance visualisations
 Add customer churn probability
 Improve the user interface
 Add more customer features
+
 👩‍💻 Author
 Isha Ijaz
 BS Artificial Intelligence Student
